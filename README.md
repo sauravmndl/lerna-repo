@@ -1,5 +1,4 @@
 # lerna-repo
-====
 
 A sample monorepo project for lerna.
 
@@ -11,7 +10,7 @@ $ cd lerna-repo
 $ npm install
 $ npm run lerna -- bootstrap
 or
-$npx lerna bootstrap
+$ npx lerna bootstrap
 ```
 
 ### Publish
@@ -19,5 +18,5 @@ $npx lerna bootstrap
 ```console
 $ npm run lerna -- publish
 or
-$npx lerna publish
+$ npx lerna publish
 ```
