@@ -1,0 +1,6 @@
+{
+    "name": "@lerna-repo/server1",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
